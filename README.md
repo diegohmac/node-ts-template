@@ -21,8 +21,8 @@ This template provides a starting point for building Node applications using Typ
 ### Biome
 Install the VsCode Biome extension and you can either run `npx @biomejs/biome init` to create a `biome.json` config file or you can copy paste my custom config:
 
+biome.json
 ```json
-// biome.json
 {
   "$schema": "https://biomejs.dev/schemas/1.5.3/schema.json",
   "organizeImports": {
