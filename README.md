@@ -45,7 +45,10 @@ biome.json
   "linter": {
     "enabled": true,
     "rules": {
-      "recommended": true
+      "recommended": true,
+      "correctness": {
+        "noUnusedVariables": "error"
+      }
     }
   }
 }
