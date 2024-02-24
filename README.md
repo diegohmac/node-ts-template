@@ -13,6 +13,8 @@ This template provides a starting point for building Node applications using Typ
 | `tsx` | CLI command for running TS and ESM in both `commonjs` and `module` package types.
 | `tsup` | Bundle TS with no config.
 | `@biomejs/biome` | Format, lint, and more in a fraction of a second.
+| `dotenv` | Loads environment variables.
+| `zod` | TypeScript-first schema validation with static type inference
 
 ## Setup
 
